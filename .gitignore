@@ -45,7 +45,6 @@ MANIFEST
 # Streamlit
 # ----------------------------------------------------------------
 # The streamlit cache and credentials files
-.streamlit/
 /reports/
 
 

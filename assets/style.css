@@ -3,7 +3,7 @@
 /* 1. Define the Color Palette using CSS Variables */
 :root {
     --primary-color: #00A6A6; /* A modern teal/blue */
-    --secondary-color: #F2F2F2; /* Light gray for backgrounds */
+    --secondary-color: #000000; /* Light gray for backgrounds */
     --text-color: #333; /* Dark gray for readable text */
     --accent-color: #05cef2; /* A warm gold/orange for accents */
     --bg-color: #000000; /* Main background color */
